@@ -24,7 +24,7 @@ The chatbot reads data from `isha_upanishad.json`, which contains:
 ## 🛠 Installation & Setup
 1. **Clone this repository:**
    ```sh
-   git clone https://github.com/yourusername/upanishad-chatbot.git
+   git clone https://github.com/sahilrangra/upanishad-chatbot.git
    cd upanishad-chatbot
    ```
 
