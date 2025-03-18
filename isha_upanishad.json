@@ -1,0 +1,392 @@
+[
+    {
+        "verse": 1,
+        "sanskrit": "ईशावास्यमिदं सर्वं यत्किञ्च जगत्यां जगत्। तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम्॥",
+        "transliteration": "Isha vasyam idam sarvam yat kincha jagatyam jagat, tena tyaktena bhunjitha ma gridhah kasyasvid dhanam.",
+        "translations": {
+            "swami_vivekananda": "All this is pervaded by the Lord, whatever exists in this changing universe. Enjoy what is given by renouncing it. Do not covet, for whose is wealth?",
+            "eknath_easwaran": "The Lord is enshrined in the hearts of all. The wise, seeing Him everywhere, renounce the selfish pursuit of wealth and embrace simplicity.",
+            "sri_aurobindo": "All this universe must be pervaded by the Lord, whatsoever is individual universe of movement in the universal motion. By that renounced, thou shouldst enjoy; covet not the wealth of any.",
+            "radha_krishnan": "Whatever exists in this world is enveloped by the Supreme. One should enjoy life with the spirit of renunciation, not craving another’s wealth."
+        },
+        "hindi_translation": {
+            "swami_ramsukhdas": "यह समस्त जगत ईश्वर से व्याप्त है। त्यागपूर्वक उसका भोग करो और किसी के धन की इच्छा मत करो।",
+            "geeta_press": "यह संपूर्ण विश्व ईश्वर से आच्छादित है। त्यागपूर्वक जीवन यापन करो और किसी अन्य के धन की लालसा मत करो।"
+        },
+        "commentary": {
+            "adi_shankaracharya": "This verse emphasizes **non-attachment and renunciation**. The world is pervaded by Brahman, but we must live with detachment, taking only what is necessary.",
+            "madhvacharya": "The Supreme Lord Vishnu is the controller of all. One must engage in **devotional service (bhakti)** and avoid material greed.",
+            "sri_aurobindo": "This teaches **integral living**—not escapism, but living in the world with a sense of divine purpose.",
+            "swami_chinmayananda": "True enjoyment comes from detachment, not possession. Wealth is temporary, but self-realization is eternal."
+        },
+        "keywords": ["Brahman", "Renunciation", "Detachment", "Wealth", "Karma", "Maya"]
+    },
+    {
+        "verse": 2,
+        "sanskrit": "कुर्वन्नेवेह कर्माणि जिजीविषेच्छतं समाः। एवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे॥",
+        "transliteration": "Kurvanneveha karmani jijivishet satam samah, evam tvayi nanyatheto asti na karma lipyate nare.",
+        "translations": {
+            "swami_vivekananda": "By performing one's duties, one should wish to live for a hundred years. Thus, karma does not bind one.",
+            "eknath_easwaran": "Through selfless action, one can live meaningfully and not be tainted by karma.",
+            "sri_aurobindo": "Action done in the spirit of surrender to the Divine does not bind the soul.",
+            "radha_krishnan": "A person should live performing actions without selfish motives; this frees them from karmic bondage."
+        },
+        "hindi_translation": {
+            "swami_ramsukhdas": "मनुष्य को अपने कर्तव्य कर्मों का पालन करते हुए सौ वर्ष तक जीने की इच्छा करनी चाहिए। इससे कर्म बंधन नहीं होता।",
+            "geeta_press": "कर्तव्य पालन करते हुए सौ वर्षों तक जीने की इच्छा करनी चाहिए, तभी मनुष्य कर्म से बंधता नहीं।"
+        },
+        "commentary": {
+            "adi_shankaracharya": "This verse teaches **Karma Yoga**—acting without attachment leads to liberation.",
+            "madhvacharya": "Selfless duty dedicated to Vishnu purifies the soul and removes karmic bondage.",
+            "sri_aurobindo": "Life is to be lived **actively but with surrender** to the higher purpose.",
+            "swami_sivananda": "Performing righteous action without selfish desire leads to purity and peace."
+        },
+        "keywords": ["Karma", "Action", "Dharma", "Selflessness", "Karma Yoga"]
+    },
+    {
+        "verse": 3,
+        "sanskrit": "असुर्या नाम ते लोका अन्धेन तमसाऽऽवृताः। ताँस्ते प्रेत्याभिगच्छन्ति ये के चात्महनो जनाः॥",
+        "transliteration": "Asurya nama te loka andhena tamasavritah, tams te pretyabhigachchhanti ye ke chatmahano janah.",
+        "translations": {
+            "swami_vivekananda": "Those who kill the Self go to worlds covered in blinding darkness after death.",
+            "eknath_easwaran": "There are worlds shrouded in darkness, to which those who deny the Self go after leaving this body.",
+            "sri_aurobindo": "The sunless worlds covered in darkness are the fate of those who slay the Self.",
+            "radha_krishnan": "The demonic worlds, filled with darkness, are entered by those who destroy their own soul."
+        },
+        "hindi_translation": {
+            "swami_ramsukhdas": "जो आत्मा का नाश करते हैं, वे अंधकार से ढके असुर लोकों में जाते हैं।",
+            "geeta_press": "जो आत्मा को मारते हैं, वे अंधकारमय असुर लोकों में जाते हैं।"
+        },
+        "commentary": {
+            "adi_shankaracharya": "This verse warns against spiritual ignorance. Those who neglect the realization of the Self are trapped in delusion and suffering.",
+            "madhvacharya": "The verse refers to those who turn away from devotion and righteousness, leading to suffering in lower realms.",
+            "sri_aurobindo": "Self-realization is the purpose of human life; ignoring it leads to bondage in ignorance.",
+            "swami_sivananda": "A life lived without spiritual pursuit leads to deep suffering in ignorance."
+        },
+        "keywords": ["Self", "Ignorance", "Darkness", "Rebirth", "Liberation"]
+    },
+    {
+        "verse": 4,
+        "sanskrit": "अनेजदेकं मनसो जवीयो नैनद् देवा आप्नुवन्पूर्वमर्षत्। तद्धावतोऽन्यानत्येति तिष्ठत् तस्मिन्नपो मातरिश्वा दधाति॥",
+        "transliteration": "Anejad ekam manaso javiyo nainad deva apnuvan purvam arshat, tadhavato nyanatyeti tishthat tasminn apo matarishva dadhati.",
+        "translations": {
+            "swami_vivekananda": "The Self moves not but is swifter than the mind. The gods cannot reach it, for it moves ahead of them.",
+            "eknath_easwaran": "Unmoving, it is swifter than the mind. The senses cannot overtake it, for it moves ever ahead.",
+            "sri_aurobindo": "That which is motionless yet moves faster than thought; the senses reach it not, for it is always ahead.",
+            "radha_krishnan": "It moves not, yet it is swifter than the mind. The gods fail to reach it as it moves ahead of them."
+        },
+        "hindi_translation": {
+            "swami_ramsukhdas": "आत्मा स्थिर है, फिर भी मन से भी तेज गति करता है। देवता इसे पकड़ नहीं सकते।",
+            "geeta_press": "यह आत्मा अचल है, परंतु मन से भी तीव्र गति करता है। देवता इसे पकड़ने में असमर्थ हैं।"
+        },
+        "commentary": {
+            "adi_shankaracharya": "The Self is beyond physical movement. It exists beyond time and space, yet pervades everything.",
+            "madhvacharya": "God’s presence is beyond comprehension; His speed and ability are beyond all material limits.",
+            "sri_aurobindo": "The Divine exists everywhere, untouched by motion or time. It is beyond human perception.",
+            "swami_sivananda": "This verse explains the paradox of the Self—both still and ever-moving, beyond grasp."
+        },
+        "keywords": ["Self", "Motion", "Mind", "Perception", "Consciousness"]
+    },
+    {
+        "verse": 5,
+        "sanskrit": "तदेजति तन्नैजति तद्दूरे तद्वन्तिके। तदन्तरस्य सर्वस्य तदु सर्वस्यास्य बाह्यतः॥",
+        "transliteration": "Tad ejati tan naijati tad dure tad antike, tad antar asya sarvasya tad u sarvasya asya bahyatah.",
+        "translations": {
+            "swami_vivekananda": "It moves, yet it moves not; it is far, yet it is near. It is within all, and it is outside all.",
+            "eknath_easwaran": "It moves and it moves not. It is far and it is near. It is within all this, and outside all this.",
+            "sri_aurobindo": "That moves and that moves not; it is far and it is near. It is within all this and it is outside all this.",
+            "radha_krishnan": "It moves and it moves not; it is far and near. It is within everything and yet outside everything."
+        },
+        "hindi_translation": {
+            "swami_ramsukhdas": "यह चलता भी है और स्थिर भी है। यह दूर भी है और निकट भी। यह सबके भीतर भी है और बाहर भी।",
+            "geeta_press": "यह चलता भी है और नहीं भी। यह दूर भी है और पास भी। यह सबके भीतर और बाहर विद्यमान है।"
+        },
+        "commentary": {
+            "adi_shankaracharya": "The Supreme is paradoxical—it is both in motion and still, immanent and transcendent.",
+            "madhvacharya": "This refers to the omnipresence of Vishnu, who exists everywhere and beyond time.",
+            "sri_aurobindo": "The Divine is both near to the seeker and infinitely beyond human reach.",
+            "swami_sivananda": "This verse teaches the **duality of the Self**, which is both within creation and beyond it."
+        },
+        "keywords": ["Paradox", "Omnipresence", "Stillness", "Movement", "Transcendence"]
+    },
+    {
+        "verse": 6,
+        "sanskrit": "यस्तु सर्वाणि भूतानि आत्मन्येवानुपश्यति। सर्वभूतेषु चात्मानं ततो न विजुगुप्सते॥",
+        "transliteration": "Yastu sarvāṇi bhūtāni ātmani evānupaśyati, sarvabhūteṣu ca ātmānaṃ tato na vijugupsate.",
+        "translations": {
+          "english": "He who sees all beings in his own self, and his own self in all beings, does not feel any revulsion by such realization."
+        },
+        "hindi_translation": "जो मनुष्य सभी प्राणियों को अपने आत्मा में और अपने आत्मा को सभी प्राणियों में देखता है, वह किसी से घृणा नहीं करता।",
+        "commentary": {
+          "adi_shankaracharya": "This verse emphasizes the realization of the unity of the Self with all beings. When one sees all beings as the Self, there is no room for hatred or aversion.",
+          "madhvacharya": "Recognizing that the Supreme Self resides in all beings leads to the dissolution of ego and fosters universal compassion.",
+          "sri_aurobindo": "The perception of oneness with all existence is the foundation of true knowledge and the eradication of sorrow and delusion.",
+          "swami_chinmayananda": "Seeing oneself in all beings and all beings in oneself leads to the highest form of love and eradicates all feelings of separateness."
+        },
+        "keywords": ["unity", "self-realization", "non-duality", "compassion", "oneness"]
+    },
+    {
+        "verse": 7,
+        "sanskrit": "यस्मिन्सर्वाणि भूतानि आत्मैवाभूद्विजानतः। तत्र को मोहः कः शोकः एकत्वमनुपश्यतः॥",
+        "transliteration": "Yasmin sarvani bhutani atmaiva abhud vijanatah, tatra ko mohah kah shokah ekatvam anupashyatah.",
+        "translations": {
+            "swami_vivekananda": "When a person sees all beings in the Self, what sorrow or delusion can there be?",
+            "eknath_easwaran": "To the one who perceives the Self in all, there is neither sorrow nor confusion.",
+            "sri_aurobindo": "He who sees the Self in all beings is free from grief and illusion.",
+            "radha_krishnan": "Seeing all beings in the Self, what delusion can there be? What sorrow?"
+        },
+        "hindi_translation": {
+            "swami_ramsukhdas": "जो आत्मा को सब प्राणियों में देखता है, वह मोह और शोक से मुक्त हो जाता है।",
+            "geeta_press": "जो सभी को आत्मा में देखता है, वह शोक और मोह से मुक्त हो जाता है।"
+        },
+        "commentary": {
+            "adi_shankaracharya": "Seeing unity in all beings is the path to enlightenment.",
+            "madhvacharya": "Devotion to the Supreme removes illusion and sorrow.",
+            "sri_aurobindo": "Realizing the divine presence in all removes suffering.",
+            "swami_sivananda": "Understanding oneness leads to liberation from worldly attachments."
+        },
+        "keywords": ["Unity", "Oneness", "Liberation", "Self-Realization"]
+    },
+    {
+        "verse": 8,
+        "sanskrit": "स पर्यगाच्छुक्रमकायमव्रणम। अस्नाविरं शुद्धमपापविद्धम्। कविर्मनीषी परिभूः स्वयंभूः। याथातथ्यतोऽर्थान्व्यदधाच्छाश्वतीभ्यः समाभ्यः॥",
+        "transliteration": "Sa paryagach chhukram akayam avranam, asnaviram shuddham apapaviddham, kavir manishi paribhuh swayambhuh, yathatathyato’rthan vyadadhach chhashwatibhyah samabhyah.",
+        "translations": {
+            "swami_vivekananda": "The Self is all-pervading, pure, free from imperfections, and beyond all sin.",
+            "eknath_easwaran": "It is bright, bodiless, pure, untouched by evil, wise, self-existent, and pervading all.",
+            "sri_aurobindo": "The One is bright, bodiless, without defect, pure, all-knowing, and eternal.",
+            "radha_krishnan": "The Self is radiant, incorporeal, untainted, pure, wise, and eternal."
+        },
+        "hindi_translation": {
+            "swami_ramsukhdas": "आत्मा तेजस्वी, शरीर रहित, पवित्र और शुद्ध है।",
+            "geeta_press": "यह आत्मा सर्वव्यापी, शुद्ध और शरीर रहित है।"
+        },
+        "commentary": {
+            "adi_shankaracharya": "The Supreme is beyond material limitations and untouched by sin.",
+            "madhvacharya": "Vishnu is the eternal and pure Supreme Lord, beyond imperfections.",
+            "sri_aurobindo": "This verse describes the eternal and perfect nature of the Divine.",
+            "swami_sivananda": "The Self is pure, wise, and beyond human limitations."
+        },
+        "keywords": ["Purity", "Eternal", "Self", "Transcendence", "Wisdom"]
+    },
+    {
+        "verse": 9,
+        "sanskrit": "अन्धं तमः प्रविशन्ति येऽविद्यामुपासते। ततो भूय इव ते तमो य उ विद्यायां रताः॥",
+        "transliteration": "Andham tamah pravishanti ye’avidyam upasate, tato bhuya iva te tamo ya u vidyayam ratah.",
+        "translations": {
+            "swami_vivekananda": "They who worship ignorance enter into darkness; but they who delight in knowledge enter into greater darkness.",
+            "eknath_easwaran": "Those who worship ignorance enter into deep darkness. But those who are devoted to knowledge enter into even deeper darkness.",
+            "sri_aurobindo": "They who follow ignorance enter into darkness, and they who delight in knowledge enter into even greater darkness.",
+            "radha_krishnan": "Into blinding darkness enter those who worship ignorance; into still greater darkness, as it were, enter those who delight in knowledge alone."
+        },
+        "hindi_translation": {
+            "swami_ramsukhdas": "जो अज्ञान की उपासना करते हैं, वे अंधकार में प्रवेश करते हैं; पर जो केवल ज्ञान में आसक्त रहते हैं, वे और भी गहरे अंधकार में जाते हैं।",
+            "geeta_press": "जो अज्ञान की उपासना करते हैं, वे अंधकार में जाते हैं, और जो केवल ज्ञान में आसक्त रहते हैं, वे और भी घने अंधकार में चले जाते हैं।"
+        },
+        "commentary": {
+            "adi_shankaracharya": "This verse warns against both ignorance and pride in knowledge. True wisdom is beyond both extremes.",
+            "madhvacharya": "Devotion to the Supreme removes both ignorance and false intellectualism.",
+            "sri_aurobindo": "Both blind ignorance and pride in knowledge lead to suffering; true realization transcends both.",
+            "swami_sivananda": "One must go beyond mere intellectualism and ignorance to attain real wisdom."
+        },
+        "keywords": ["Ignorance", "Knowledge", "Darkness", "Realization", "Wisdom"]
+    },
+    {
+        "verse": 10,
+        "sanskrit": "अन्यदेवाहुर्विद्यया अन्यदाहुरविद्यया। इति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे॥",
+        "transliteration": "Anyad evahur vidyaya anyad ahur avidyaya, iti shushruma dhiranam ye nas tad vichachakshire.",
+        "translations": {
+            "swami_vivekananda": "One thing is attained by knowledge, another by ignorance. So we have heard from the wise.",
+            "eknath_easwaran": "It is said that knowledge leads to one goal, and ignorance to another. So we have heard from the wise.",
+            "sri_aurobindo": "Knowledge leads to one result, ignorance to another; this we have heard from the sages.",
+            "radha_krishnan": "One thing is said to be gained through knowledge, another through ignorance. So have we heard from wise men."
+        },
+        "hindi_translation": {
+            "swami_ramsukhdas": "ज्ञान से कुछ और प्राप्त होता है, और अज्ञान से कुछ और। यह हमने ज्ञानी पुरुषों से सुना है।",
+            "geeta_press": "ज्ञान से एक फल मिलता है, और अज्ञान से दूसरा। ऐसा हमने ज्ञानी पुरुषों से सुना है।"
+        },
+        "commentary": {
+            "adi_shankaracharya": "True wisdom is distinct from both blind ignorance and dry intellectual knowledge.",
+            "madhvacharya": "Knowledge of Vishnu leads to liberation, while ignorance binds the soul.",
+            "sri_aurobindo": "Wisdom must be beyond material knowledge and spiritual ignorance.",
+            "swami_sivananda": "Both ignorance and knowledge have different results; one must transcend them."
+        },
+        "keywords": ["Knowledge", "Ignorance", "Duality", "Wisdom", "Liberation"]
+    },
+    {
+        "verse": 11,
+        "sanskrit": "विद्यां चाविद्यां च यस्तद्वेदोभयं सह। अविद्यया मृत्युं तीर्त्वा विद्ययाऽमृतमश्नुते॥",
+        "transliteration": "Vidyam cha avidyam cha yas tad vedobhaya saha, avidyaya mrityum tirtva vidyaya amritam ashnute.",
+        "translations": {
+            "swami_vivekananda": "He who knows both knowledge and ignorance together overcomes death through ignorance and attains immortality through knowledge.",
+            "eknath_easwaran": "He who knows both knowledge and ignorance together transcends death through ignorance and attains immortality through knowledge.",
+            "sri_aurobindo": "By ignorance one crosses beyond death, by knowledge one attains immortality.",
+            "radha_krishnan": "By ignorance one overcomes death, and by knowledge one attains immortality."
+        },
+        "hindi_translation": {
+            "swami_ramsukhdas": "जो ज्ञान और अज्ञान दोनों को जानता है, वह अज्ञान से मृत्यु को पार कर जाता है और ज्ञान से अमरता प्राप्त करता है।",
+            "geeta_press": "जो ज्ञान और अज्ञान दोनों को जानता है, वह अज्ञान से मृत्यु को पार करता है और ज्ञान से अमरता प्राप्त करता है।"
+        },
+        "commentary": {
+            "adi_shankaracharya": "A balanced understanding of material and spiritual life leads to true liberation.",
+            "madhvacharya": "Only through devotion to the Lord can one transcend death and attain immortality.",
+            "sri_aurobindo": "Both material and spiritual knowledge must be integrated for true realization.",
+            "swami_sivananda": "Knowledge alone leads to the eternal, but worldly experience also has its role."
+        },
+        "keywords": ["Knowledge", "Ignorance", "Death", "Immortality", "Liberation"]
+    },
+    {
+        "verse": 12,
+        "sanskrit": "अन्धं तमः प्रविशन्ति येऽसम्भूतिमुपासते। ततो भूय इव ते तमो य उ सम्भूत्या रताः॥",
+        "transliteration": "Andham tamah pravishanti ye asambhutim upasate, tato bhuya iva te tamo ya u sambhutyam ratah.",
+        "translations": {
+            "swami_vivekananda": "Those who worship the Unmanifest enter into darkness; those who delight in the manifest enter into even greater darkness.",
+            "eknath_easwaran": "They who worship the unmanifest enter darkness; those who are devoted to the manifest enter deeper darkness.",
+            "sri_aurobindo": "They who adore the Unmanifest enter darkness; they who delight in the manifest enter deeper darkness.",
+            "radha_krishnan": "Into darkness enter those who worship the Unmanifest; into greater darkness enter those who delight in the manifest alone."
+        },
+        "hindi_translation": {
+            "swami_ramsukhdas": "जो अप्रकट की पूजा करते हैं, वे अंधकार में प्रवेश करते हैं; जो प्रकट में ही लगे रहते हैं, वे और गहरे अंधकार में जाते हैं।",
+            "geeta_press": "जो अप्रकट की पूजा करते हैं, वे अंधकार में जाते हैं, और जो केवल प्रकट रूप में आसक्त रहते हैं, वे और भी घने अंधकार में जाते हैं।"
+        },
+        "commentary": {
+            "adi_shankaracharya": "Both materialism and pure abstract belief without realization lead to ignorance.",
+            "madhvacharya": "Devotion to the Lord is beyond both the manifest and unmanifest aspects.",
+            "sri_aurobindo": "True wisdom goes beyond the seen and unseen realities.",
+            "swami_sivananda": "One must go beyond both material and unmanifest worship for true realization."
+        },
+        "keywords": ["Manifest", "Unmanifest", "Darkness", "Realization", "Wisdom"]
+    },
+    {
+        "verse": 13,
+        "sanskrit": "अन्यदेवाहुः सम्भवादन्यदाहुरसम्भवात्। इति शुश्रुम धीराणां ये नस्तद्विचचक्षिरे॥",
+        "transliteration": "Anyad evahuh sambhavad anyad ahur asambhavat, iti shushruma dhiranam ye nas tad vichachakshire.",
+        "translations": {
+            "swami_vivekananda": "One thing is obtained from the manifest, another from the unmanifest. So we have heard from the wise.",
+            "eknath_easwaran": "Some say that the fruit of worshiping the manifest is one thing, and of the unmanifest another. So have we heard from the wise.",
+            "sri_aurobindo": "One result comes from the worship of the manifest, another from the unmanifest. This we have heard from the sages.",
+            "radha_krishnan": "One result is attained by worshiping the manifest, another by worshiping the unmanifest. So have we heard from wise men."
+        },
+        "hindi_translation": {
+            "swami_ramsukhdas": "प्रकट की उपासना से कुछ और फल प्राप्त होता है, अप्रकट की उपासना से कुछ और। यह हमने ज्ञानी पुरुषों से सुना है।",
+            "geeta_press": "प्रकट और अप्रकट की पूजा से भिन्न-भिन्न फल प्राप्त होते हैं, यह हमने ज्ञानी पुरुषों से सुना है।"
+        },
+        "commentary": {
+            "adi_shankaracharya": "Both material devotion and abstract meditation give different results, but realization of the Supreme is beyond both.",
+            "madhvacharya": "Bhakti (devotion) to the personal form of God leads to liberation, while impersonal meditation leads to temporary results.",
+            "sri_aurobindo": "One must go beyond both the manifest and unmanifest to realize the Supreme.",
+            "swami_sivananda": "A balanced understanding of both aspects of the Divine is necessary for liberation."
+        },
+        "keywords": ["Manifest", "Unmanifest", "Realization", "Duality", "Wisdom"]
+    },
+    {
+        "verse": 14,
+        "sanskrit": "संभूतिं च विनाशं च यस्तद्वेदोभयं सह। विनाशेन मृत्युं तीर्त्वा सम्भूत्यामृतमश्नुते॥",
+        "transliteration": "Sambhutim cha vinasham cha yas tad veda ubhayam saha, vinashena mrityum tirtva sambhutyamritam ashnute.",
+        "translations": {
+            "swami_vivekananda": "He who understands both the eternal and the transient crosses death through the transient and attains immortality through the eternal.",
+            "eknath_easwaran": "He who understands both the manifest and the unmanifest transcends death and attains immortality.",
+            "sri_aurobindo": "By knowledge of the transient, one transcends death; by knowledge of the eternal, one attains immortality.",
+            "radha_krishnan": "By knowledge of the perishable, one crosses beyond death; by knowledge of the imperishable, one attains immortality."
+        },
+        "hindi_translation": {
+            "swami_ramsukhdas": "जो नश्वर और शाश्वत दोनों को जानता है, वह नश्वर से मृत्यु को पार कर जाता है और शाश्वत से अमरता प्राप्त करता है।",
+            "geeta_press": "जो नाशवान और अविनाशी दोनों को जानता है, वह मृत्यु को पार करता है और अमरता प्राप्त करता है।"
+        },
+        "commentary": {
+            "adi_shankaracharya": "True wisdom lies in knowing both the material and spiritual aspects of existence.",
+            "madhvacharya": "Knowledge of the material world alone leads to rebirth; knowledge of the Supreme grants liberation.",
+            "sri_aurobindo": "Understanding both existence and non-existence leads to self-realization.",
+            "swami_sivananda": "Balancing worldly and spiritual wisdom leads to liberation."
+        },
+        "keywords": ["Eternal", "Transient", "Death", "Immortality", "Liberation"]
+    },
+    {
+        "verse": 15,
+        "sanskrit": "हिरण्मयेन पात्रेण सत्यस्यापिहितं मुखम्। तत्त्वं पूषन्नपावृणु सत्यधर्माय दृष्टये॥",
+        "transliteration": "Hiranmayena patrena satyasyapihitam mukham, tattvam pushann apavrunu satyadharmaya drishtaye.",
+        "translations": {
+            "swami_vivekananda": "The face of Truth is covered with a golden veil. O Sun, remove it, so that I may see the truth.",
+            "eknath_easwaran": "The face of truth is hidden by a golden vessel. O Sun, remove it so that I may see the truth.",
+            "sri_aurobindo": "The face of truth is covered by a golden lid; remove it, O Sun, so I may see the reality.",
+            "radha_krishnan": "The face of Truth is hidden by a golden disc. O Sun, remove it that I may behold the truth."
+        },
+        "hindi_translation": {
+            "swami_ramsukhdas": "सत्य का मुख स्वर्णमयी आड़ से ढका हुआ है। हे सूर्य, उसे हटा दो ताकि मैं सत्य को देख सकूँ।",
+            "geeta_press": "सत्य का मुख स्वर्णमयी आड़ से ढका है। हे सूर्य, उसे हटा दो ताकि मैं सत्य को देख सकूँ।"
+        },
+        "commentary": {
+            "adi_shankaracharya": "The golden disc represents Maya (illusion), which must be removed to see the ultimate reality.",
+            "madhvacharya": "Only through devotion can the veil of illusion be lifted.",
+            "sri_aurobindo": "The seeker prays for the removal of illusions to attain true knowledge.",
+            "swami_sivananda": "This is a prayer to the Divine for self-realization."
+        },
+        "keywords": ["Truth", "Veil", "Sun", "Illusion", "Realization"]
+    },
+    {
+        "verse": 16,
+        "sanskrit": "पूषन्नेकर्षे यम सूर्य प्राजापत्य व्यूह रश्मिन् समूह। तेजो यत् रूपं कर्मासि योऽसावसौ पुरुषः सोऽहमस्मि॥",
+        "transliteration": "Pushann ekarshe yama surya prajapatya vyuha rashmin samuha, tejo yat rupam karman asi yo’sav asau purushah so’ham asmi.",
+        "translations": {
+            "swami_vivekananda": "O Sun, the lone traveler, withdraw your rays, so that I may see the Self within you.",
+            "eknath_easwaran": "O Sun, withdraw your rays, so I may see the true Self beyond.",
+            "sri_aurobindo": "O Sun, reduce your dazzling light, so that I may see the Supreme Purusha within.",
+            "radha_krishnan": "O Sun, draw back your rays, so I may behold the Purusha within."
+        },
+        "hindi_translation": {
+            "swami_ramsukhdas": "हे सूर्य, अपनी किरणों को समेटो ताकि मैं उस परम पुरुष को देख सकूँ।",
+            "geeta_press": "हे सूर्य, अपनी किरणों को समेटो ताकि मैं परम पुरुष को देख सकूँ।"
+        },
+        "commentary": {
+            "adi_shankaracharya": "The seeker prays to move beyond external light to see the Supreme within.",
+            "madhvacharya": "Devotion leads to direct perception of the Supreme Being.",
+            "sri_aurobindo": "The sun symbolizes external knowledge, which must be transcended for true realization.",
+            "swami_sivananda": "This is a prayer for the final unveiling of truth."
+        },
+        "keywords": ["Sun", "Self", "Truth", "Purusha", "Realization"]
+    },
+    {
+        "verse": 17,
+        "sanskrit": "वायुरनिलममृतमथेदं भस्मान्तं शरीरम्। ॐ क्रतो स्मर कृतं स्मर क्रतो स्मर कृतं स्मर॥",
+        "transliteration": "Vayur anilam amritam athedam bhasmantam shariram, Om krato smara kritam smara krato smara kritam smara.",
+        "translations": {
+            "swami_vivekananda": "O Life-breath, merge with the eternal; let this body be reduced to ashes. Om, remember your deeds, remember!",
+            "eknath_easwaran": "O vital air, merge with the immortal source; let this body be reduced to ashes. Om, remember, remember your deeds!",
+            "sri_aurobindo": "Let the vital breath merge into the eternal, and the body turn to ashes. Om, meditate on your deeds, meditate!",
+            "radha_krishnan": "O vital air, merge with the immortal; may this body turn to ashes. Om, meditate on your actions, meditate!"
+        },
+        "hindi_translation": {
+            "swami_ramsukhdas": "हे वायु, अमृत में विलीन हो, यह शरीर भस्म हो जाए। ॐ, अपने कर्मों को स्मरण कर, स्मरण कर।",
+            "geeta_press": "हे वायु, अमृत में विलीन हो, यह शरीर भस्म हो जाए। ॐ, अपने कर्मों को स्मरण कर, स्मरण कर।"
+        },
+        "commentary": {
+            "adi_shankaracharya": "This verse signifies the final dissolution of the body and the remembrance of one's deeds at the time of death.",
+            "madhvacharya": "Surrendering the body to the divine and remembering Vishnu at death leads to liberation.",
+            "sri_aurobindo": "The physical body perishes, but the soul must strive for immortality through divine remembrance.",
+            "swami_sivananda": "The dying man must remember God and his past actions, as they determine his future existence."
+        },
+        "keywords": ["Death", "Immortality", "Remembrance", "Liberation", "Karma"]
+    },
+    {
+        "verse": 18,
+        "sanskrit": "अग्ने नय सुपथा राये अस्मान् विश्वानि देव वयुनानि विद्वान्। युयोध्यस्मज्जुहुराणमेनो भूयिष्ठां ते नमउक्तिं विधेम॥",
+        "transliteration": "Agne naya supatha raye asman vishvani deva vayunani vidvan, yuyodhy asmaj juhuranam eno bhuyishtham te namauktim vidhema.",
+        "translations": {
+            "swami_vivekananda": "O Fire, lead us on the right path to prosperity. O God, you know all our deeds. Remove from us all sin. We bow to you in devotion.",
+            "eknath_easwaran": "O Fire, lead us by the right path to the enjoyment of the fruits of our actions. O God, remove all our sins. We offer you our deepest reverence.",
+            "sri_aurobindo": "O Fire, lead us along the good path to prosperity. O Divine, knowing all deeds, remove our sin and accept our homage.",
+            "radha_krishnan": "O Fire, lead us by the right path to prosperity. O Divine, knowing all actions, remove our sins. We offer you our homage."
+        },
+        "hindi_translation": {
+            "swami_ramsukhdas": "हे अग्नि, हमें शुभ मार्ग पर ले चल। हे देव, हमारे समस्त पापों को दूर कर और हमें समृद्धि प्रदान कर।",
+            "geeta_press": "हे अग्नि, हमें शुभ मार्ग पर ले चल। हे देव, हमारे पापों को दूर कर और हमें समृद्धि प्रदान कर।"
+        },
+        "commentary": {
+            "adi_shankaracharya": "This final verse is a prayer for divine guidance on the righteous path and liberation from sin.",
+            "madhvacharya": "By following the path shown by the divine, one attains prosperity and liberation.",
+            "sri_aurobindo": "The seeker prays for wisdom, divine guidance, and freedom from ignorance.",
+            "swami_sivananda": "A prayer for guidance, purification, and divine grace in the journey of the soul."
+        },
+        "keywords": ["Fire", "Guidance", "Righteous Path", "Purification", "Liberation"]
+    }
+]
